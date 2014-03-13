@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\Joe\Documents\Visual Studio 2013\Projects\IoCContainer\IoCContainer\IoCContainerTests.nunit</TopNode>
+  <SelectedNode>[0-1000]C:\Users\Joe\Documents\Visual Studio 2013\Projects\IoCContainer\IoCContainer\IoCContainerTests.nunit</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\Joe\Documents\Visual Studio 2013\Projects\IoCContainer\IoCContainer\IoCContainerTests.nunit" Expanded="true" />
+    <Node UniqueName="[0-1010]C:\Users\Joe\Documents\Visual Studio 2013\Projects\IoCContainer\IoCContainer\bin\Debug\IoCContainer.Service.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]IoCContainer" Expanded="true" />
+    <Node UniqueName="[0-1012]IoCContainer.Service" Expanded="true" />
+    <Node UniqueName="[0-1013]IoCContainer.Service.Tests" Expanded="true" />
+    <Node UniqueName="[0-1001]IoCContainer.Service.Tests.IoCContainerServiceTests" Expanded="true" />
+  </Nodes>
+</VisualState>
